@@ -23,7 +23,7 @@ I build practical, database-driven web systems that improve workflows, automate 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Business+Systems+Developer;PHP+%7C+CodeIgniter+%7C+MySQL;Building+Clean+and+Useful+Web+Applications;Automating+Reports+and+Daily+Operations;Turning+Manual+Processes+into+Smart+Systems;Clean+Code+%7C+Reliable+Data+%7C+Practical+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Business+Systems+Developer;PHP+%7C+CodeIgniter+%7C+MySQL;Building+Clean+and+Useful+Web+Applications;Automating+Reports+and+Daily+Operations;Turning+Manual+Processes+into+Smart+Systems;Clean+Code+%7C+Reliable+Data+%7C+Practical+Solutions;Ready+to+Build+Reliable+Systems+for+Your+Team" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -33,6 +33,7 @@ I build practical, database-driven web systems that improve workflows, automate 
 ![GitHub Stars](https://img.shields.io/github/stars/Renz954?style=for-the-badge\&color=facc15)
 ![Focus](https://img.shields.io/badge/Focus-Business%20Systems-7C3AED?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Building%20Useful%20Systems-22C55E?style=for-the-badge)
+![Available](https://img.shields.io/badge/Open%20to-Developer%20Opportunities-38BDF8?style=for-the-badge)
 
 </div>
 
@@ -76,6 +77,51 @@ I build practical, database-driven web systems that improve workflows, automate 
 </table>
 
 </div>
+
+---
+
+<div align="center">
+
+## 💼 Why Employers Should Work With Me
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/workflow.png" width="62" alt="Workflow"/>
+<h3>Workflow Mindset</h3>
+<p>I understand business processes and turn manual tasks into organized systems.</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/services.png" width="62" alt="Problem Solving"/>
+<h3>Practical Problem Solver</h3>
+<p>I build features that are useful, maintainable, and aligned with daily operations.</p>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/commercial.png" width="62" alt="Business Value"/>
+<h3>Business Value</h3>
+<p>I focus on systems that save time, improve accuracy, and support decision-making.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Reliable%20Developer-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Business%20Focused-1E3A8A?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/Process%20Automation-166534?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Clean%20Interface-7C3AED?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e7eaa-fb4a-4f2a-9d3c-8074b0b1f3d1.gif" width="80%" alt="Animated Divider" />
+</p>
 
 ---
 
@@ -160,6 +206,17 @@ My work focuses on practical solutions, clean interfaces, reliable database desi
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend-PHP%20%7C%20CodeIgniter-777BB4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-MySQL-005C84?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI-Bootstrap%20%7C%20CSS-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reports-Excel%20%7C%20PDF-16A34A?style=for-the-badge" />
+
+</div>
+
 ---
 
 ## ✨ Featured Systems
@@ -235,6 +292,39 @@ A module for preparing, formatting, and printing structured sales invoice record
 
 ---
 
+## 🧩 Project Strengths
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/module.png" width="60" alt="Modules"/>
+<h3>Modular Systems</h3>
+<p>Organized modules for easier maintenance and future improvements.</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/print.png" width="60" alt="Printing"/>
+<h3>Printable Outputs</h3>
+<p>Structured invoices, reports, forms, and export-ready records.</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/ms-excel.png" width="60" alt="Excel"/>
+<h3>Excel Exports</h3>
+<p>Automated exports for faster reporting and easier monitoring.</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/maintenance.png" width="60" alt="Maintenance"/>
+<h3>Maintainability</h3>
+<p>Practical code structure designed for real operations.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 <div align="center">
@@ -298,6 +388,15 @@ A module for preparing, formatting, and printing structured sales invoice record
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Renz954&theme=tokyonight" alt="GitHub Summary Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Renz954&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+
+</div>
+
 ---
 
 ## 🧠 Developer Mindset
@@ -353,6 +452,44 @@ I build systems that can generate reports, export Excel files, prepare printable
 
 ---
 
+## 🔄 Development Workflow
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/search.png" width="55" alt="Analyze"/>
+<h3>Analyze</h3>
+<p>Understand user needs and current process.</p>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/design.png" width="55" alt="Design"/>
+<h3>Design</h3>
+<p>Plan database, screens, and workflow.</p>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/code.png" width="55" alt="Develop"/>
+<h3>Develop</h3>
+<p>Build clean and practical features.</p>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/checked-checkbox.png" width="55" alt="Test"/>
+<h3>Test</h3>
+<p>Check accuracy, reports, and user flow.</p>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/rocket.png" width="55" alt="Improve"/>
+<h3>Improve</h3>
+<p>Enhance based on real operation needs.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🖼️ Developer Gallery
 
 <div align="center">
@@ -393,6 +530,62 @@ I build systems that can generate reports, export Excel files, prepare printable
 <img src="https://img.shields.io/badge/Database%20Driven-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Report%20Automation-166534?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Clean%20UI-7C3AED?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Process%20Improvement-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" />
+
+</div>
+
+---
+
+## ✅ What I Can Help Build
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧾 Business Modules
+
+* Employee-related modules
+* Transaction monitoring systems
+* Department request systems
+* Approval and report modules
+
+</td>
+<td width="50%">
+
+### 📊 Reporting Tools
+
+* Excel exports
+* PDF reports
+* Printable invoices
+* Summary dashboards
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ Database Systems
+
+* MySQL-based applications
+* Organized records management
+* Search and filtering tools
+* Secure user access workflows
+
+</td>
+<td width="50%">
+
+### ⚙️ Process Automation
+
+* Manual process conversion
+* Repetitive task reduction
+* Internal web applications
+* Operational workflow improvement
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -404,6 +597,14 @@ I build systems that can generate reports, export Excel files, prepare printable
 
 [![GitHub](https://img.shields.io/badge/GitHub-Renz954-181717?style=for-the-badge\&logo=github)](https://github.com/Renz954)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:renciomardano1998@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=850&lines=Thank+you+for+visiting+my+GitHub+Profile;Let's+build+clean+and+useful+systems+together;Available+for+developer+opportunities" alt="Footer Typing SVG" />
 
 </div>
 
