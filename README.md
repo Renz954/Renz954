@@ -13,19 +13,19 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="230" alt="Programming Passion Animation" />
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="210" alt="Coding Developer Animation" />
 <br>
-<b>Code Builder</b>
+<b>Frontend & Logic</b>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230" alt="Developer Workflow Animation" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230" alt="Web System Development Animation" />
 <br>
-<b>System Developer</b>
+<b>Web Systems</b>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" alt="Problem Solving Animation" />
+<img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="220" alt="Software Developer Animation" />
 <br>
-<b>Problem Solver</b>
+<b>Database & Reports</b>
 </td>
 </tr>
 </table>
