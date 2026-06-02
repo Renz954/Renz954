@@ -149,100 +149,8 @@ I build practical, database-driven web systems that improve workflows, automate 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="Developer GIF" />
 
-<table>
-<tr>
-<td>
-
 I enjoy transforming manual business processes into organized web-based systems.
 My work focuses on practical solutions, clean interfaces, reliable database design, and tools that make daily operations easier.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=I+build+business+web+systems;I+automate+manual+processes;I+create+clean+and+useful+interfaces;I+focus+on+reliable+data+and+reports" alt="About Me Typing Animation" />
-
-</div>
-
-### 💼 Developer Profile
-
-<table>
-<tr>
-<td width="35%"><b>Name</b></td>
-<td>Renz</td>
-</tr>
-<tr>
-<td><b>GitHub Username</b></td>
-<td>Renz954</td>
-</tr>
-<tr>
-<td><b>Role</b></td>
-<td>Software Developer</td>
-</tr>
-<tr>
-<td><b>Specialty</b></td>
-<td>Business Web Systems</td>
-</tr>
-<tr>
-<td><b>Mission</b></td>
-<td>Build clean, useful, and reliable systems.</td>
-</tr>
-</table>
-
-### 🎯 Focus Areas
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="55" alt="Development"/>
-<br>
-<b>Internal System Development</b>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/process.png" width="55" alt="Automation"/>
-<br>
-<b>Process Automation</b>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/database.png" width="55" alt="Database"/>
-<br>
-<b>Database Management</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="55" alt="Reports"/>
-<br>
-<b>Report Generation</b>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/web-design.png" width="55" alt="UI"/>
-<br>
-<b>Clean User Interfaces</b>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/maintenance.png" width="55" alt="Maintenance"/>
-<br>
-<b>System Maintenance</b>
-</td>
-</tr>
-</table>
-
-### 🧰 Core Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=111827" />
-<img src="https://img.shields.io/badge/Bootstrap-7C3AED?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
-
-</div>
 
 <br clear="right"/>
 
@@ -676,7 +584,7 @@ I build systems that can generate reports, export Excel files, prepare printable
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Renz954-181717?style=for-the-badge\&logo=github)](https://github.com/Renz954)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail)](mailto:renciomardano1998@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:renciomardano1998@gmail.com)
 
 </div>
 
