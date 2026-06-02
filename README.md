@@ -13,16 +13,15 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="270" alt="Developer Animation" />
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="270" alt="Professional Developer Animation" />
 </td>
 <td align="center" width="50%">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="270" alt="Coding Animation" />
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="270" alt="Software Development Animation" />
 </td>
 </tr>
 </table>
 
 </div>
-
 <div align="center">
 
 # Hi, I'm Renz 👋
