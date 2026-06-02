@@ -38,17 +38,12 @@ I enjoy turning manual processes into clean, organized, and automated systems.
 
 ### Business and Operations Modules
 
-- Cashier's Liquidation System
-- Cashier Shortages Module
-- Charges and Damages Module
+
 - Corporate General Overhead Module
-- Cash Advance Module
-- Manual Deduction Module
-- Employee Credit Module
 - Dormitory Module
-- Financing Module
-- Pay Parking System
-- Fun Run Module
+- Store Go
+- Sales Invoice Printing
+
 
 ---
 
