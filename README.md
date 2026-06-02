@@ -147,35 +147,6 @@ I build practical, database-driven web systems that improve workflows, automate 
 ## 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="Developer GIF" />
-<?php
-
-$developer = [
-    'name' => 'Renz',
-    'username' => 'Renz954',
-    'role' => 'Software Developer',
-    'specialty' => 'Business Web Systems',
-    'mission' => 'Build clean, useful, and reliable systems.',
-    'focus' => [
-        'Internal System Development',
-        'Process Automation',
-        'Database Management',
-        'Report Generation',
-        'Clean User Interfaces'
-    ],
-    'tech_stack' => [
-        'PHP',
-        'CodeIgniter',
-        'MySQL',
-        'JavaScript',
-        'Bootstrap',
-        'HTML',
-        'CSS'
-    ]
-];
-
-echo "Building clean, useful, and reliable systems.";
-
-?>
 
 I enjoy transforming manual business processes into organized web-based systems.
 My work focuses on practical solutions, clean interfaces, reliable database design, and tools that make daily operations easier.
