@@ -12,11 +12,14 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="270" alt="Professional Developer Animation" />
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="230" alt="Web Developer Animation" />
 </td>
-<td align="center" width="50%">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="270" alt="Software Development Animation" />
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230" alt="Software Development Animation" />
+</td>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="230" alt="Coding Workflow Animation" />
 </td>
 </tr>
 </table>
