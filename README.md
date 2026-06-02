@@ -147,8 +147,6 @@ I build practical, database-driven web systems that improve workflows, automate 
 ## 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="Developer GIF" />
-
-```php
 <?php
 
 $developer = [
@@ -178,7 +176,6 @@ $developer = [
 echo "Building clean, useful, and reliable systems.";
 
 ?>
-```
 
 I enjoy transforming manual business processes into organized web-based systems.
 My work focuses on practical solutions, clean interfaces, reliable database design, and tools that make daily operations easier.
